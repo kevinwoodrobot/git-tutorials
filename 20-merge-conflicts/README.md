@@ -1,0 +1,1 @@
+Merge conflict happen when more than one people modify code in the same file or section. 

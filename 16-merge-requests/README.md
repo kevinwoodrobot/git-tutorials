@@ -1,0 +1,1 @@
+Merge request used to merge a branch into main/master. 
